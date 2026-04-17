@@ -15,5 +15,7 @@ Global food security is hindered by a widening productivity gap between develope
 
 -**Static Reporting**: A lack of integrated, real-time tools prevents researchers from visualizing the intersection of chemistry and climate.
 
+https://github.com/fiyinrotimi/Agro-Yield-Efficiency-Analysis/blob/main/Data-Schema-and-Calculated-Columns.PNG
+
 
 3. **The Solution: A Data-Driven Soil Intelligence Dashboard**
