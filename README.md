@@ -32,3 +32,30 @@ https://github.com/fiyinrotimi/Agro-Yield-Efficiency-Analysis/blob/main/Data-Sch
 -**Biotech Insight (NUE%)**: Custom DAX measures evaluating Nutrient Use Efficiency, highlighting a peak efficiency of 125.3% under optimized conditions.
 
 -**Environmental Correlation**: Scatter distributions mapping Rainfall (mm) vs. Yield, revealing critical thresholds where excessive rain diminishes nutrient uptake.
+
+
+4. **Technical Stack & Methodology**
+
+  ### Data Engineering: SQL & Power Query for ETL, data cleaning, and normalizing disparate regional datasets.
+
+### Analytical Modeling: DAX (Data Analysis Expressions) used to calculate custom metrics for NUE, Average Yield per Hectare, and Climate Correlations.
+
+### Visual Storytelling: Power BI Desktop using advanced features like Edit Interactions, Synced Slicers, and Geographic Data Categorization.
+
+### Research Context: Aligned with Soil Science & Biotechnology principles (MSDS and NISS standards).
+
+5. **Key Insights & Conclusion**
+The analysis confirms that soil chemistry is not the only driver of success; environmental interaction and management efficiency are equally critical.
+
+Ireland’s success is rooted in high Phosphorus Indexing and stable precipitation.
+
+Nigeria’s productivity is currently limited by Nitrogen volatility and climate-driven leaching.
+
+**Conclusion**: Digital transformation and site-specific nutrient "prescriptions" are the keys to closing the global yield gap.
+
+6.**Strategic Recommendations** 
+### Precision Management: Shift from "blanket fertilization" to site-specific Nitrogen Stabilization in tropical regions to mitigate leaching.
+
+### Climate-Smart Selection: Deploy crop varieties specifically bred for high-rainfall zones, as identified in the Climate Correlation analysis.
+
+### Digital Scaling: Expand the use of interactive BI tools at the farm-gate level to allow for real-time soil health interventions.
