@@ -17,5 +17,6 @@ Global food security is hindered by a widening productivity gap between develope
 
 https://github.com/fiyinrotimi/Agro-Yield-Efficiency-Analysis/blob/main/Data-Schema-and-Calculated-Columns.PNG
 
+<img width="909" height="262" alt="Data-Schema-and-Calculated-Columns" src="https://github.com/user-attachments/assets/4880ca4d-705d-482d-b857-46e265bad86a" />
 
 3. **The Solution: A Data-Driven Soil Intelligence Dashboard**
