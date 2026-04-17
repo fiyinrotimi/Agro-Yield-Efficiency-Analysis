@@ -45,11 +45,8 @@ https://github.com/fiyinrotimi/Agro-Yield-Efficiency-Analysis/blob/main/Data-Sch
 
 ## 5. **Key Insights & Conclusion**
 The analysis confirms that soil chemistry is not the only driver of success; environmental interaction and management efficiency are equally critical.
-
 Ireland’s success is rooted in high Phosphorus Indexing and stable precipitation.
-
 Nigeria’s productivity is currently limited by Nitrogen volatility and climate-driven leaching.
-
 * **Conclusion**: Digital transformation and site-specific nutrient "prescriptions" are the keys to closing the global yield gap.
 
 ## 6.**Strategic Recommendations** 
