@@ -17,6 +17,18 @@ Global food security is hindered by a widening productivity gap between develope
 
 https://github.com/fiyinrotimi/Agro-Yield-Efficiency-Analysis/blob/main/Data-Schema-and-Calculated-Columns.PNG
 
-<img width="909" height="262" alt="Data-Schema-and-Calculated-Columns" src="https://github.com/user-attachments/assets/4880ca4d-705d-482d-b857-46e265bad86a" />
+<img width="840" height="724" alt="Ireland vs Nigeria Dashboard" src="https://github.com/user-attachments/assets/943caa21-8df7-446c-9331-9819dd2c6070" />
+,    ,<img width="909" height="262" alt="Data-Schema-and-Calculated-Columns" src="https://github.com/user-attachments/assets/4880ca4d-705d-482d-b857-46e265bad86a" />,<img width="1073" height="648" alt="Key-Metrics-and-Data-Modeling-View" src="https://github.com/user-attachments/assets/eb144687-3e24-48b4-8ef8-bb3614ef8b54" />
+
 
 3. **The Solution: A Data-Driven Soil Intelligence Dashboard**
+
+   I developed a multi-modular Power BI dashboard that translates raw agricultural data into actionable insights:
+
+-**Geospatial Intelligence**: A bubble map visual identifying high-productivity hubs across Irish counties and Nigerian states.
+
+-**Longitudinal Trend Analysis**: A 6-year time-series identifying the widening or narrowing of the regional yield gap.
+
+-**Biotech Insight (NUE%)**: Custom DAX measures evaluating Nutrient Use Efficiency, highlighting a peak efficiency of 125.3% under optimized conditions.
+
+-**Environmental Correlation**: Scatter distributions mapping Rainfall (mm) vs. Yield, revealing critical thresholds where excessive rain diminishes nutrient uptake.
